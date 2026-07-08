@@ -1,0 +1,14 @@
+unsloth
+torch
+transformers
+trl
+datasets
+accelerate
+bitsandbytes
+peft
+pandas
+numpy
+sentencepiece
+protobuf
+huggingface_hub
+scipy

@@ -1,0 +1,134 @@
+Employees in healthcare settings must follow strict infection control protocols. Hand hygiene is the most important measure to prevent hospital-acquired infections.
+
+Type 2 diabetes mellitus is a chronic condition characterized by insulin resistance and relative insulin deficiency. Patients are advised to maintain a healthy diet, exercise regularly, and monitor blood glucose levels.
+
+Hypertension, commonly known as high blood pressure, increases the risk of heart disease and stroke. Lifestyle modifications include reducing salt intake and engaging in physical activity.
+
+The common cold is a viral infection of the upper respiratory tract. Symptoms typically include runny nose, sore throat, cough, and mild fever. It usually resolves within a week.
+
+Antibiotic resistance is a major public health threat caused by overuse and misuse of antibiotics. Healthcare providers should prescribe them only when bacterial infection is confirmed.
+
+Annual flu vaccination is recommended for everyone over 6 months of age, especially high-risk groups such as the elderly and people with chronic conditions.
+
+Patient confidentiality is protected under HIPAA regulations. Protected health information must not be disclosed without proper authorization.
+
+In emergency medicine, the ABC approach stands for Airway, Breathing, and Circulation. Immediate assessment of these is critical in trauma cases.
+
+Chronic Kidney Disease (CKD) has five stages based on glomerular filtration rate (eGFR). Early detection can slow progression.
+
+Depression is a common mental health disorder that can be effectively treated with psychotherapy and antidepressant medications such as SSRIs.
+
+A balanced diet rich in fruits, vegetables, whole grains, and lean proteins supports overall health and recovery from illness.
+
+Asthma is a chronic inflammatory disease of the airways. Triggers include allergens, exercise, and cold air. Inhalers are the mainstay of treatment.
+
+Vaccines have dramatically reduced the incidence of diseases like measles, polio, and tetanus.
+
+Heart failure occurs when the heart cannot pump blood effectively. Symptoms include shortness of breath, fatigue, and swelling in the legs.
+
+Proper wound care is essential to prevent infection. Cleaning, dressing, and monitoring for signs of infection are key steps.
+
+Osteoporosis is a condition where bones become weak and brittle. Calcium and vitamin D intake along with weight-bearing exercise help maintain bone density.
+
+Smoking is a leading cause of preventable death. It significantly increases risks of lung cancer, COPD, and cardiovascular disease.
+
+Prenatal care is crucial for healthy pregnancy outcomes. Regular check-ups help monitor fetal development and maternal health.
+
+Mental health first aid training helps individuals support others experiencing mental health crises.
+
+Telemedicine has expanded access to healthcare, especially in rural areas.
+
+Allergic reactions can range from mild hives to life-threatening anaphylaxis. Epinephrine auto-injectors are used for severe cases.
+
+Cancer screening programs such as mammography and colonoscopy improve early detection rates.
+
+Physical therapy plays a vital role in rehabilitation after surgery or injury.
+
+Medication reconciliation is important during hospital admission and discharge to prevent adverse drug events.
+
+Handwashing with soap and water for at least 20 seconds is one of the best ways to prevent the spread of germs.
+
+Obesity is a complex disease that increases risk for many chronic conditions. Behavioral, pharmacological, and surgical interventions may be used.
+
+Sleep hygiene practices promote better sleep quality and overall health.
+
+Anticoagulant therapy requires careful monitoring to prevent bleeding complications.
+
+Palliative care focuses on improving quality of life for patients with serious illnesses.
+
+Infection prevention bundles are used in hospitals to reduce catheter-associated and ventilator-associated infections.
+
+Healthcare workers should receive regular training on infection prevention and control.
+
+Electronic Health Records (EHR) improve care coordination but require strong cybersecurity measures.
+
+Nutritional support is critical for patients in intensive care units.
+
+Post-operative care includes pain management, mobility exercises, and monitoring for complications.
+
+Community health programs focus on preventive care and health education.
+
+Immunization schedules are designed based on age and risk factors to maximize protection.
+
+Patient education on medication adherence improves treatment outcomes.
+
+Lifestyle medicine emphasizes the role of diet, exercise, stress management, and sleep.
+
+Radiology plays a key role in diagnosis through X-rays, CT scans, and MRIs.
+
+Laboratory tests provide essential information for accurate diagnosis and monitoring.
+
+Occupational health services protect workers from workplace hazards.
+
+Public health surveillance helps track and control disease outbreaks.
+
+Ethical considerations in healthcare include informed consent and end-of-life decisions.
+
+Rehabilitation services help patients regain function after stroke or injury.
+
+Maternal and child health programs aim to reduce mortality rates.
+
+Chronic pain management often requires a multidisciplinary approach.
+
+Geriatric care addresses the unique needs of older adults.
+
+Precision medicine tailors treatment to individual genetic profiles.
+
+Health literacy is important for patients to understand and follow medical advice.
+
+Environmental factors significantly impact public health.
+
+Disaster preparedness is essential for hospitals and healthcare systems.
+
+Quality improvement initiatives continuously enhance patient safety and outcomes.
+
+Interprofessional collaboration improves patient care in complex cases.
+
+Health equity aims to ensure fair access to healthcare for all populations.
+
+  Healthcare organizations follow strict protocols to ensure patient safety and quality of care. This includes regular staff training, equipment sterilization, and continuous quality improvement initiatives.
+
+  Chronic diseases such as diabetes, hypertension, and heart disease require long-term management. Patient education, lifestyle modification, and regular medical follow-up are essential components of effective care.
+
+  The liver performs many vital functions including detoxification, protein synthesis, and production of biochemicals necessary for digestion. Common liver diseases include fatty liver disease, hepatitis, and cirrhosis.
+
+  Cancer is a group of diseases characterized by uncontrolled cell growth. Metastasis occurs when cancer cells spread from the primary tumor to other parts of the body, commonly to the lungs, liver, bones, and brain.
+
+  Cardiovascular diseases are the leading cause of death globally. As people age, the risk increases due to factors like atherosclerosis, high blood pressure, and reduced heart efficiency.
+
+  Electronic Health Records (EHR) systems have transformed healthcare delivery by improving information sharing while maintaining patient privacy and security standards.
+      
+  
+
+Healthcare organizations follow strict protocols to ensure patient safety and quality of care. This includes regular staff training, equipment sterilization, and continuous quality improvement initiatives.
+
+Chronic diseases such as diabetes, hypertension, and heart disease require long-term management. Patient education, lifestyle modification, and regular medical follow-up are essential components of effective care.
+
+The liver performs many vital functions including detoxification, protein synthesis, and production of biochemicals necessary for digestion. Common liver diseases include fatty liver disease, hepatitis, and cirrhosis.
+
+Cancer is a group of diseases characterized by uncontrolled cell growth. Metastasis occurs when cancer cells spread from the primary tumor to other parts of the body, commonly to the lungs, liver, bones, and brain.
+
+Cardiovascular diseases are the leading cause of death globally. As people age, the risk increases due to factors like atherosclerosis, high blood pressure, and reduced heart efficiency.
+
+Electronic Health Records (EHR) systems have transformed healthcare delivery by improving information sharing while maintaining patient privacy and security standards.
+

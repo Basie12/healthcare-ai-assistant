@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Environment
+.env
+.env.*
+
+# Saved models
+saved_models/
+
+# Training outputs
+outputs_instruction/
+outputs_non_instruction/
+outputs_dpo/
+dpo_outputs/
+
+# Evaluation artifacts
+reports/base_answers.json
+reports/sft_answers.json
+reports/dpo_answers.json
+
+# Archives
+*.zip
