@@ -1,24 +1,15 @@
 from pathlib import Path
 from unsloth import FastLanguageModel
 
-MODEL_PATH = Path("../saved_models/final_medical_assistant_dpo")
+from pathlib import Path
+from unsloth import FastLanguageModel
+
+ROOT_DIR = Path(__file__).resolve().parent.parent
+MODEL_PATH = ROOT_DIR / "saved_models" / "final_medical_assistant_dpo"
 
 if not MODEL_PATH.exists():
-    raise FileNotFoundError(
-        f"""
-Model not found: {MODEL_PATH}
+    raise FileNotFoundError(f"Model not found: {MODEL_PATH}")
 
-Train the project first to generate the model:
-
-1. notebooks/non_instruction_finetunning.ipynb
-2. notebooks/instruction_finetuning.ipynb
-3. notebooks/dpo_alignment.ipynb
-
-After training, the final model should be located at:
-
-saved_models/final_medical_assistant_dpo
-"""
-    )
 
 model, tokenizer = FastLanguageModel.from_pretrained(
     model_name=str(MODEL_PATH),

@@ -326,7 +326,7 @@ The DPO-aligned model consistently produced:
 - Implement guardrails and hallucination detection
 
 ---
-
+**Note:** Local inference with the LoRA adapter may require CUDA/GPU support. The model was trained and tested in Google Colab using an NVIDIA T4 GPU. Apple Silicon/MLX support may require adapter conversion or a merged model export.
 # Technologies
 
 - Python
