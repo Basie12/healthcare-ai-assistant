@@ -1,33 +1,48 @@
-# 🩺 Healthcare AI Assistant using Unsloth
+# 🏥 Healthcare AI Assistant using Unsloth
 
-An end-to-end domain-specific Large Language Model (LLM) fine-tuning project that builds a Healthcare FAQ Assistant using Unsloth. The project follows a complete three-stage training pipeline: domain adaptation, supervised instruction fine-tuning, and preference alignment with DPO.
+An end-to-end domain-specific Large Language Model (LLM) fine-tuning project that builds a Healthcare FAQ Assistant using Unsloth. The project follows a complete three-stage training pipeline:
 
----
-
-# Project Overview
-
-This project demonstrates how to transform a general-purpose LLM into a specialized Healthcare AI Assistant capable of providing more accurate, structured, and domain-specific responses.
-
-The workflow follows an industry-style LLM fine-tuning pipeline:
-
-```
-Base LLM
-      │
-      ▼
-Stage 1: Non-Instruction Fine-Tuning
-      │
-      ▼
-Stage 2: Instruction Fine-Tuning (SFT)
-      │
-      ▼
-Stage 3: DPO Preference Alignment
-      │
-      ▼
-Healthcare AI Assistant
-```
+**Base Model → Non-Instruction Fine-Tuning → Instruction Fine-Tuning (SFT) → DPO Preference Alignment → Final Healthcare AI Assistant**
 
 ---
 
+# Business Problem
+
+Healthcare professionals, support staff, and patients often require quick access to reliable medical information. While general-purpose language models possess broad knowledge, their responses are frequently too generic and may lack the domain-specific terminology, structure, and clarity needed in healthcare environments.
+
+The goal of this project is to build a **Healthcare FAQ Assistant** capable of understanding medical concepts and delivering accurate, professional, and context-aware responses. To achieve this, the base model is progressively adapted through three stages:
+
+- **Stage 1:** Non-Instruction Fine-Tuning to learn healthcare terminology and writing style.
+- **Stage 2:** Supervised Fine-Tuning (SFT) using instruction-response examples.
+- **Stage 3:** Direct Preference Optimization (DPO) to align the model toward safer, more helpful, and higher-quality responses.
+
+The resulting assistant provides more informative, domain-aware, and professionally structured answers than the original base model.
+
+---
+
+## Project Pipeline
+
+```text
+Base Model
+      │
+      ▼
+Non-Instruction Fine-Tuning
+      │
+      ▼
+Healthcare Domain Adaptation
+      │
+      ▼
+Instruction Fine-Tuning (SFT)
+      │
+      ▼
+Healthcare Question Answering
+      │
+      ▼
+DPO Preference Alignment
+      │
+      ▼
+Final Healthcare AI Assistant
+```
 # Domain
 
 Healthcare FAQ Assistant
@@ -46,21 +61,6 @@ The assistant answers healthcare-related questions involving:
 - Public Health
 - Patient Safety
 - Preventive Medicine
-
----
-
-# Business Problem
-
-Healthcare professionals and patients often require reliable, domain-specific answers rather than generic responses produced by foundation models.
-
-The objective is to fine-tune an open-source LLM so it:
-
-- Understands medical terminology
-- Produces more structured responses
-- Provides safer and more informative healthcare answers
-- Reduces generic or incomplete responses
-
----
 
 # Project Structure
 
