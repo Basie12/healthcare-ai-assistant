@@ -342,7 +342,17 @@ The DPO-aligned model consistently produced:
 - Google Colab
 
 ---
+## 🎥 Demo
 
+### Quick Preview
+
+![Demo](assets/demo.gif)
+
+### Full Demonstration
+
+Download the complete demo:
+
+[Healthcare AI Assistant Demo](assets/demo.mov)
 # Author
 
 **Bassa Belhu**
