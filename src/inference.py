@@ -1,8 +1,7 @@
 from pathlib import Path
+
 from unsloth import FastLanguageModel
 
-from pathlib import Path
-from unsloth import FastLanguageModel
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 MODEL_PATH = ROOT_DIR / "saved_models" / "final_medical_assistant_dpo"
@@ -20,7 +19,7 @@ model, tokenizer = FastLanguageModel.from_pretrained(
 FastLanguageModel.for_inference(model)
 
 
-def generate(question):
+def generate(question: str) -> str:
     prompt = f"""Below is an instruction that describes a task.
 
 ### Instruction:
@@ -51,10 +50,16 @@ You are a knowledgeable medical AI assistant.
 
 if __name__ == "__main__":
     while True:
-        question = input("\nAsk a medical question (type 'exit' to quit): ")
+        question = input(
+            "\nAsk a medical question (type 'exit' to quit): "
+        ).strip()
 
         if question.lower() == "exit":
             break
+
+        if not question:
+            print("Please enter a question.")
+            continue
 
         print("\nAssistant:")
         print(generate(question))
